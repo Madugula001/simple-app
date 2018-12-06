@@ -11,7 +11,7 @@
 	<!--<groupId>com.xyz</groupId>-->
 	<groupId>xyz</groupId>
 	<!--<artifactId>simple-app</artifactId>-->
-	<artifactId>Simple App</artifactId>
+	<artifactId>Simple-App</artifactId>
 	<version>1.0.0</version>
 
 	<!-- Project dependencies -->
